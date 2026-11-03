@@ -162,11 +162,6 @@
     : projects.filter(p => p.featured);
   featured.forEach(p => $('featured-grid').append(featuredCard(p)));
 
-  // Final Paharpur project showcase, separate from the main project archive.
-  (data.bangladeshProjects || []).forEach(id => {
-    const p=projects.find(project=>project.id===id);
-    if(p) $('bangladesh-grid').append(featuredCard(p));
-  });
 
   function archiveCard(project) {
     const card = elt('article','archive-card');
@@ -202,7 +197,7 @@
   $('search-projects').addEventListener('input',renderArchive);
   function renderArchive() {
     const query = $('search-projects').value.trim().toLocaleLowerCase();
-    const filtered = projects.filter(p => p.id !== 'bangladesh-paharpur' && (currentCategory === 'All' || p.category === currentCategory) && [p.title,p.place,p.country,p.category,p.summary,p.tech,...p.tags].some(s => String(s).toLocaleLowerCase().includes(query)));
+    const filtered = projects.filter(p => (currentCategory === 'All' || p.category === currentCategory) && [p.title,p.place,p.country,p.category,p.summary,p.tech,...p.tags].some(s => String(s).toLocaleLowerCase().includes(query))).sort((a, b) => Number(a.id === 'bangladesh-paharpur') - Number(b.id === 'bangladesh-paharpur'));
     $('archive-grid').replaceChildren(...filtered.map(archiveCard));
     const shots = filtered.reduce((n,p) => n+p.images.length,0);
     $('archive-count').textContent = `${filtered.length} project groups · ${shots} image views`;

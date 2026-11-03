@@ -17,7 +17,18 @@ window.PORTFOLIO_DATA = {
     "Potree",
     "Sketchfab",
     "Unity",
-    "RelightLab"
+    "RelightLab",
+    "Adobe Creative Suite",
+    "Capture One",
+    "PostShot",
+    "Microsoft Office",
+    "Unreal Engine",
+    "ImageJ",
+    "Autodesk Meshmixer",
+    "MeshLab",
+    "Autodesk ReCap Pro",
+    "3D Coat",
+    "Twinmotion"
   ],
   "methods": [
     {
@@ -1498,8 +1509,5 @@ window.PORTFOLIO_DATA = {
     0,
     0,
     0
-  ],
-  "bangladeshProjects": [
-    "bangladesh-paharpur"
   ]
 };
