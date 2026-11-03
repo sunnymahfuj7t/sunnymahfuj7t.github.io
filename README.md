@@ -19,7 +19,6 @@ Upload all site contents (not the enclosing folder) to the root of the `sunnymah
 
 Keep MAHS and other rights-holder credit and verify any unconfirmed project metadata before publishing.
 
-
 ### Publish to your existing GitHub Pages site
 
 Unzip this package. Upload the three updated files to your existing repository, preserving their relative paths and overwriting the old versions:
