@@ -19,12 +19,6 @@ Upload all site contents (not the enclosing folder) to the root of the `sunnymah
 
 Keep MAHS and other rights-holder credit and verify any unconfirmed project metadata before publishing.
 
-## November 2026 portfolio update
-
-- Removed **Paharpur** from the top navigation and removed its standalone section.
-- Moved Paharpur Buddhist Vihara to the **end of the Visual Archive**, keeping its existing six gallery images.
-- Expanded **Tools used in project workflows** with Adobe Creative Suite, Capture One, PostShot, Microsoft Office, Unreal Engine, ImageJ, Autodesk Meshmixer, MeshLab, Autodesk ReCap Pro, 3D Coat and Twinmotion.
-- All other projects, media and embedded Sketchfab links are retained.
 
 ### Publish to your existing GitHub Pages site
 
