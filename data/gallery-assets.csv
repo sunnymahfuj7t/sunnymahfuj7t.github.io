@@ -1,0 +1,167 @@
+project_id,project_title,gallery_image,caption
+maldives-mosque,Maldives mosque · Gaussian splatting outcomes,assets/images/maldives-mosque/01.webp,Gaussian-splatting exterior view of an island mosque and surrounding palms
+maldives-mosque,Maldives mosque · Gaussian splatting outcomes,assets/images/maldives-mosque/02.webp,Overhead Gaussian-splatting visualisation of a Maldives island mosque
+maldives-mosque,Maldives mosque · Gaussian splatting outcomes,assets/images/maldives-mosque/03.webp,Interior ceiling and chandelier detail from the Maldives mosque experimental visualisation
+thai-temple,Temple complex and courtyard,assets/images/thai-temple/01.webp,Heritage model: Temple complex and courtyard
+thai-temple,Temple complex and courtyard,assets/images/thai-temple/02.webp,Heritage model: Temple complex and courtyard
+thai-temple,Temple complex and courtyard,assets/images/thai-temple/03.webp,Heritage model: Temple complex and courtyard
+thai-temple,Temple complex and courtyard,assets/images/thai-temple/04.webp,Heritage model: Temple complex and courtyard
+thai-temple,Temple complex and courtyard,assets/images/thai-temple/05.jpg,"RealityCapture top view of temple and courtyard reconstruction, including software interface"
+thai-temple,Temple complex and courtyard,assets/images/thai-temple/06.jpg,Oblique RealityCapture view showing the reconstructed temple roof geometry
+rote-landscape,Cultural landscape on Rote Island,assets/images/rote-landscape/01.webp,Heritage model: Cultural landscape on Rote Island
+rote-landscape,Cultural landscape on Rote Island,assets/images/rote-landscape/02.webp,Heritage model: Cultural landscape on Rote Island
+rote-landscape,Cultural landscape on Rote Island,assets/images/rote-landscape/03.webp,Heritage model: Cultural landscape on Rote Island
+rote-landscape,Cultural landscape on Rote Island,assets/images/rote-landscape/04.webp,Heritage model: Cultural landscape on Rote Island
+rote-landscape,Cultural landscape on Rote Island,assets/images/rote-landscape/05.webp,Heritage model: Cultural landscape on Rote Island
+bronze-drums,Metal drums and ceremonial vessels,assets/images/bronze-drums/01.webp,Heritage model: Bronze drum collection
+bronze-drums,Metal drums and ceremonial vessels,assets/images/bronze-drums/02.webp,Heritage model: Bronze drum collection
+bronze-drums,Metal drums and ceremonial vessels,assets/images/bronze-drums/03.webp,Heritage model: Bronze drum collection
+bronze-drums,Metal drums and ceremonial vessels,assets/images/bronze-drums/04.webp,Textured model of a metal drum-shaped container with flat circular upper surface
+bronze-drums,Metal drums and ceremonial vessels,assets/images/bronze-drums/05.webp,Heritage model: Bronze drum collection
+bronze-drums,Metal drums and ceremonial vessels,assets/images/bronze-drums/06.webp,Heritage model: Bronze drum collection
+collection-selected-objects,"Selected objects · vessels, reliefs and carvings",assets/images/collection-selected-objects/01.webp,Photogrammetric model of a reddish ceramic pouring vessel with spout
+collection-selected-objects,"Selected objects · vessels, reliefs and carvings",assets/images/collection-selected-objects/02.webp,Photogrammetric model of a weathered carved stone relief fragment
+collection-selected-objects,"Selected objects · vessels, reliefs and carvings",assets/images/collection-selected-objects/03.webp,Photogrammetric model of a decorated lidded container
+collection-selected-objects,"Selected objects · vessels, reliefs and carvings",assets/images/collection-selected-objects/04.webp,Photogrammetric model of a seated carved wooden figure
+collection-selected-objects,"Selected objects · vessels, reliefs and carvings",assets/images/collection-selected-objects/05.webp,Photogrammetric model of a patterned ceramic vessel with arched handle
+maritime-objects,Traditional vessels and maritime models,assets/images/maritime-objects/01.webp,Textured ceremonial boat sculpture featuring figures and dramatic upper ornamentation
+maritime-objects,Traditional vessels and maritime models,assets/images/maritime-objects/02.webp,Heritage model: Traditional vessels and maritime models
+maritime-objects,Traditional vessels and maritime models,assets/images/maritime-objects/03.webp,Heritage model: Traditional vessels and maritime models
+maritime-objects,Traditional vessels and maritime models,assets/images/maritime-objects/04.webp,Heritage model: Traditional vessels and maritime models
+maritime-objects,Traditional vessels and maritime models,assets/images/maritime-objects/05.webp,Heritage model: Traditional vessels and maritime models
+maritime-objects,Traditional vessels and maritime models,assets/images/maritime-objects/06.webp,Model of a dark traditional ceremonial boat with dragon figures and carved details
+maritime-objects,Traditional vessels and maritime models,assets/images/maritime-objects/07.webp,Oblique 3D view of a long traditional wooden boat from a museum collection
+timber-heritage,Timber architecture in Thailand,assets/images/timber-heritage/01.webp,Heritage model: Timber architecture in Thailand
+timber-heritage,Timber architecture in Thailand,assets/images/timber-heritage/02.webp,Heritage model: Timber architecture in Thailand
+timber-heritage,Timber architecture in Thailand,assets/images/timber-heritage/03.webp,Heritage model: Timber architecture in Thailand
+maldivian-sites,Built heritage across Maldivian islands,assets/images/maldivian-sites/01.webp,Heritage model: Built heritage across Maldivian islands
+maldivian-sites,Built heritage across Maldivian islands,assets/images/maldivian-sites/02.webp,Heritage model: Built heritage across Maldivian islands
+maldivian-sites,Built heritage across Maldivian islands,assets/images/maldivian-sites/03.webp,Heritage model: Built heritage across Maldivian islands
+maldivian-sites,Built heritage across Maldivian islands,assets/images/maldivian-sites/04.webp,Heritage model: Built heritage across Maldivian islands
+maldivian-sites,Built heritage across Maldivian islands,assets/images/maldivian-sites/05.webp,Heritage model: Built heritage across Maldivian islands
+museum-sculpture,Sculptures and ritual objects,assets/images/museum-sculpture/01.webp,3D model of a seated multi-armed sculptural figure
+museum-sculpture,Sculptures and ritual objects,assets/images/museum-sculpture/02.webp,Heritage model: Sculptures and ritual objects
+museum-sculpture,Sculptures and ritual objects,assets/images/museum-sculpture/03.webp,Heritage model: Sculptures and ritual objects
+museum-sculpture,Sculptures and ritual objects,assets/images/museum-sculpture/04.webp,Textured model of a seated elephant-headed ritual sculpture
+museum-sculpture,Sculptures and ritual objects,assets/images/museum-sculpture/05.webp,Heritage model: Sculptures and ritual objects
+museum-sculpture,Sculptures and ritual objects,assets/images/museum-sculpture/06.webp,Heritage model: Sculptures and ritual objects
+museum-sculpture,Sculptures and ritual objects,assets/images/museum-sculpture/07.webp,Heritage model: Sculptures and ritual objects
+museum-sculpture,Sculptures and ritual objects,assets/images/museum-sculpture/08.webp,Model of a hanging cast-metal ritual object with chain
+thai-objects,Ceremonial objects and figures,assets/images/thai-objects/01.webp,Heritage model: Ceremonial objects and figures
+thai-objects,Ceremonial objects and figures,assets/images/thai-objects/02.webp,Heritage model: Ceremonial objects and figures
+thai-objects,Ceremonial objects and figures,assets/images/thai-objects/03.webp,Heritage model: Ceremonial objects and figures
+thai-objects,Ceremonial objects and figures,assets/images/thai-objects/04.webp,Heritage model: Ceremonial objects and figures
+thai-objects,Ceremonial objects and figures,assets/images/thai-objects/05.webp,Front view of a richly painted seated Chinese ritual figure
+thai-objects,Ceremonial objects and figures,assets/images/thai-objects/06.webp,Heritage model: Ceremonial objects and figures
+thai-objects,Ceremonial objects and figures,assets/images/thai-objects/07.webp,Heritage model: Ceremonial objects and figures
+thai-objects,Ceremonial objects and figures,assets/images/thai-objects/08.webp,Photogrammetric model of a multicoloured wooden altar or shrine furnishing
+thai-objects,Ceremonial objects and figures,assets/images/thai-objects/09.webp,Front view of a weathered painted seated statue
+island-settlement,Vernacular settlement on Sabu Raijua,assets/images/island-settlement/01.webp,Heritage model: Vernacular settlement on Sabu Raijua
+island-settlement,Vernacular settlement on Sabu Raijua,assets/images/island-settlement/02.webp,Heritage model: Vernacular settlement on Sabu Raijua
+island-settlement,Vernacular settlement on Sabu Raijua,assets/images/island-settlement/03.webp,Heritage model: Vernacular settlement on Sabu Raijua
+burial-landscape,Burial landscapes and tomb markers,assets/images/burial-landscape/01.webp,Heritage model: Burial landscapes and tomb markers
+burial-landscape,Burial landscapes and tomb markers,assets/images/burial-landscape/02.webp,Heritage model: Burial landscapes and tomb markers
+burial-landscape,Burial landscapes and tomb markers,assets/images/burial-landscape/03.webp,Heritage model: Burial landscapes and tomb markers
+maluku-heritage,Religious and community architecture in Maluku,assets/images/maluku-heritage/01.webp,Heritage model: Religious and community architecture in Maluku
+maluku-heritage,Religious and community architecture in Maluku,assets/images/maluku-heritage/02.webp,Heritage model: Religious and community architecture in Maluku
+maluku-heritage,Religious and community architecture in Maluku,assets/images/maluku-heritage/03.webp,Heritage model: Religious and community architecture in Maluku
+maluku-heritage,Religious and community architecture in Maluku,assets/images/maluku-heritage/04.webp,Heritage model: Religious and community architecture in Maluku
+maluku-heritage,Religious and community architecture in Maluku,assets/images/maluku-heritage/05.webp,Heritage model: Religious and community architecture in Maluku
+aceh-architecture,Monuments and sites in Aceh,assets/images/aceh-architecture/01.webp,Heritage model: Monuments and sites in Aceh
+aceh-architecture,Monuments and sites in Aceh,assets/images/aceh-architecture/02.webp,Heritage model: Monuments and sites in Aceh
+aceh-architecture,Monuments and sites in Aceh,assets/images/aceh-architecture/03.webp,Heritage model: Monuments and sites in Aceh
+aceh-architecture,Monuments and sites in Aceh,assets/images/aceh-architecture/04.webp,Heritage model: Monuments and sites in Aceh
+aceh-architecture,Monuments and sites in Aceh,assets/images/aceh-architecture/05.webp,Heritage model: Monuments and sites in Aceh
+aceh-architecture,Monuments and sites in Aceh,assets/images/aceh-architecture/06.webp,Heritage model: Monuments and sites in Aceh
+aceh-architecture,Monuments and sites in Aceh,assets/images/aceh-architecture/07.webp,Heritage model: Monuments and sites in Aceh
+krabi-sites,Sites and vernacular structures in Krabi,assets/images/krabi-sites/01.webp,Heritage model: Sites and vernacular structures in Krabi
+krabi-sites,Sites and vernacular structures in Krabi,assets/images/krabi-sites/02.webp,Heritage model: Sites and vernacular structures in Krabi
+krabi-sites,Sites and vernacular structures in Krabi,assets/images/krabi-sites/03.webp,Heritage model: Sites and vernacular structures in Krabi
+krabi-sites,Sites and vernacular structures in Krabi,assets/images/krabi-sites/04.webp,Heritage model: Sites and vernacular structures in Krabi
+thailand-ritual-sites,Religious architecture and decorated interiors,assets/images/thailand-ritual-sites/01.webp,Heritage model: Religious architecture and decorated interiors
+thailand-ritual-sites,Religious architecture and decorated interiors,assets/images/thailand-ritual-sites/02.webp,Heritage model: Religious architecture and decorated interiors
+maldives-objects,Objects and monuments from island collections,assets/images/maldives-objects/01.webp,Heritage model: Objects and monuments from island collections
+maldives-objects,Objects and monuments from island collections,assets/images/maldives-objects/02.webp,Front view of a carved circular stone relief from the Maldives
+maldives-objects,Objects and monuments from island collections,assets/images/maldives-objects/03.webp,Heritage model: Objects and monuments from island collections
+maldives-objects,Objects and monuments from island collections,assets/images/maldives-objects/04.webp,"Carved circular stone object featuring low-relief markings, Maldives"
+gaafu-sites,Small architectural sites in Gaafu,assets/images/gaafu-sites/01.webp,Heritage model: Small architectural sites in Gaafu
+gaafu-sites,Small architectural sites in Gaafu,assets/images/gaafu-sites/02.webp,Heritage model: Small architectural sites in Gaafu
+gaafu-sites,Small architectural sites in Gaafu,assets/images/gaafu-sites/03.webp,Heritage model: Small architectural sites in Gaafu
+maldives-ra,Island masonry and architecture,assets/images/maldives-ra/01.webp,Heritage model: Island masonry and architecture
+alor-heritage,Built structures and small objects of Alor,assets/images/alor-heritage/01.webp,Heritage model: Built structures and small objects of Alor
+alor-heritage,Built structures and small objects of Alor,assets/images/alor-heritage/02.webp,Heritage model: Built structures and small objects of Alor
+alor-heritage,Built structures and small objects of Alor,assets/images/alor-heritage/03.webp,Heritage model: Built structures and small objects of Alor
+flores-sites,Landscapes and fortifications of Flores Timur,assets/images/flores-sites/01.webp,Heritage model: Landscapes and fortifications of Flores Timur
+flores-sites,Landscapes and fortifications of Flores Timur,assets/images/flores-sites/02.webp,Heritage model: Landscapes and fortifications of Flores Timur
+flores-sites,Landscapes and fortifications of Flores Timur,assets/images/flores-sites/03.webp,Heritage model: Landscapes and fortifications of Flores Timur
+flores-sites,Landscapes and fortifications of Flores Timur,assets/images/flores-sites/04.webp,Heritage model: Landscapes and fortifications of Flores Timur
+sabu-elevation,Terrain and coastal fort settings on Sabu,assets/images/sabu-elevation/01.webp,Heritage model: Terrain and coastal fort settings on Sabu
+sabu-elevation,Terrain and coastal fort settings on Sabu,assets/images/sabu-elevation/02.webp,Heritage model: Terrain and coastal fort settings on Sabu
+southern-thailand-dem,Digital elevation models from southern Thailand,assets/images/southern-thailand-dem/01.webp,Heritage model: Digital elevation models from southern Thailand
+southern-thailand-dem,Digital elevation models from southern Thailand,assets/images/southern-thailand-dem/02.webp,Heritage model: Digital elevation models from southern Thailand
+southern-thailand-dem,Digital elevation models from southern Thailand,assets/images/southern-thailand-dem/03.webp,Heritage model: Digital elevation models from southern Thailand
+thailand-memorial,Sacred and commemorative landscape,assets/images/thailand-memorial/01.webp,Heritage model: Sacred and commemorative landscape
+bhutan,Mountain heritage record,assets/images/bhutan/01.webp,Heritage model: Mountain heritage record
+maluku-terrain-unverified,Maluku terrain visualisation,assets/images/maluku-terrain-unverified/01.webp,"Elevation-coloured terrain visualisation labelled MALUKU, with terrain detail and river-like depressions"
+kobe-mosque-new,Kobe Mosque · architectural 3D record,assets/images/kobe-mosque-new/01.jpg,Oblique reconstructed 3D view of Kobe Mosque and neighbouring structures
+kobe-mosque-new,Kobe Mosque · architectural 3D record,assets/images/kobe-mosque-new/02.jpg,"Frontal reconstructed 3D view of Kobe Mosque, façade and two minarets"
+kobe-mosque-new,Kobe Mosque · architectural 3D record,assets/images/kobe-mosque-new/01.webp,Fieldwork photograph of drone operator with the Kobe Mosque domes behind
+kobe-mosque-new,Kobe Mosque · architectural 3D record,assets/images/kobe-mosque-new/02.webp,Aerial photograph of Kobe Mosque and urban surroundings
+fort-belgica-new,Fort Belgica · architectural and spatial reconstruction,assets/images/fort-belgica-new/01.jpg,Oblique photogrammetric model of a pentagonal historic fort
+fort-belgica-new,Fort Belgica · architectural and spatial reconstruction,assets/images/fort-belgica-new/02.jpg,Elevated fort reconstruction showing inner courtyard and towers
+fort-belgica-new,Fort Belgica · architectural and spatial reconstruction,assets/images/fort-belgica-new/03.jpg,Near-overhead view showing the pentagonal footprint and bastions
+thailand-additional,Additional Thai architectural records,assets/images/thailand-additional/01.jpg,MAHS model of a red-roofed historic religious building with a bell tower in southern Thailand
+thailand-additional,Additional Thai architectural records,assets/images/thailand-additional/02.jpg,MAHS model of a historic multi-storey house in Thailand
+thailand-additional,Additional Thai architectural records,assets/images/thailand-additional/03.jpg,MAHS model of a Buddhist temple complex with surrounding stupas
+thailand-additional,Additional Thai architectural records,assets/images/thailand-additional/04.jpg,MAHS model of a raised timber and masonry building in Thailand
+thailand-additional,Additional Thai architectural records,assets/images/thailand-additional/05.jpg,MAHS model of a timber vernacular building with entrance steps
+thailand-additional,Additional Thai architectural records,assets/images/thailand-additional/06.jpg,MAHS model of a two-storey historic timber building
+thailand-additional,Additional Thai architectural records,assets/images/thailand-additional/07.jpg,Interior view of a Buddhist cave shrine with reclining Buddha figures
+church-documentation-views,Historic churches · model viewpoints,assets/images/church-documentation-views/01.jpg,Model view of a large historic church with a long red roof and frontal steps
+church-documentation-views,Historic churches · model viewpoints,assets/images/church-documentation-views/02.jpg,Overhead perspective of the long red roof of a historic church
+church-documentation-views,Historic churches · model viewpoints,assets/images/church-documentation-views/03.jpg,Front of a small church building with a prominent tower
+church-documentation-views,Historic churches · model viewpoints,assets/images/church-documentation-views/04.jpg,Oblique view of a church building with multiple roof materials
+church-documentation-views,Historic churches · model viewpoints,assets/images/church-documentation-views/05.jpg,Side view of a white historic church with red roof and small bell tower
+church-documentation-views,Historic churches · model viewpoints,assets/images/church-documentation-views/06.jpg,Oblique view of a white historic church with a red roof and bell tower
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/01.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/02.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/03.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/04.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/05.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/06.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/07.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/08.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/09.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/10.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/11.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/12.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/13.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/14.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/15.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/16.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/17.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/18.webp,Additional 3D reconstructions: survey archive
+additional-architectural-views,Additional 3D reconstructions: survey archive,assets/images/additional-architectural-views/19.webp,Additional 3D reconstructions: survey archive
+rti-documentation,Reflectance Transformation Imaging (RTI),assets/images/rti-documentation/01.webp,Reflectance Transformation Imaging (RTI)
+rti-documentation,Reflectance Transformation Imaging (RTI),assets/images/rti-documentation/02.webp,Reflectance Transformation Imaging (RTI)
+rock-art-dstretch,Rock-art visualization with DStretch,assets/images/rock-art-dstretch/01.webp,Rock-art visualization with DStretch
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/01.webp,Top-down point-cloud screenshot of a vernacular building site and surrounding vegetation
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/02.webp,Oblique point-cloud view of a vernacular house and its surrounding yard
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/03.webp,Top-down point-cloud view of a mosque complex with dome and minaret
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/04.webp,Oblique exterior point-cloud reconstruction of a multi-storey mosque
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/07.webp,Aerial point-cloud visualisation of Fort Belgica and its surrounding landscape
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/08.webp,Top-down point-cloud orthoview of Fort Belgica
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/09.webp,Oblique point-cloud view of Fort Belgica with its star-shaped fortification layout
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/10.webp,Interior point-cloud scan of a timber hall or worship space
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/11.webp,Point-cloud reconstruction of an earthen mound or burial feature within a wooded setting
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/14.webp,Isolated sectioned point-cloud model of a roofed structure within a fortified enclosure
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/15.webp,Top-down point-cloud and roof view of the same enclosed structure
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/16.webp,Night-background point-cloud view of a small vernacular house in a forest clearing
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/17.webp,Oblique point-cloud view of the same vernacular house and surrounding vegetation
+point-cloud-survey,Terrestrial laser scanning: point-cloud field records,assets/images/point-cloud-survey/18.webp,Point-cloud view of an A-frame vernacular structure with adjacent buildings and trees
+bangladesh-paharpur,Paharpur Buddhist Vihara · integrated 3D survey,assets/images/bangladesh-paharpur/01.jpg,"Paharpur Buddhist Vihara textured 3D model, frontal view of the reconstructed monastery complex"
+bangladesh-paharpur,Paharpur Buddhist Vihara · integrated 3D survey,assets/images/bangladesh-paharpur/02.png,"Paharpur Buddhist Vihara textured 3D model, oblique view showing the reconstructed stepped architecture"
+bangladesh-paharpur,Paharpur Buddhist Vihara · integrated 3D survey,assets/images/bangladesh-paharpur/03.png,Orthophoto of Paharpur Buddhist Vihara generated in RealityCapture
+bangladesh-paharpur,Paharpur Buddhist Vihara · integrated 3D survey,assets/images/bangladesh-paharpur/04.png,Paharpur Buddhist Vihara point-cloud visualisation showing internal measurement and survey reference overlays
+bangladesh-paharpur,Paharpur Buddhist Vihara · integrated 3D survey,assets/images/bangladesh-paharpur/05.png,Paharpur Buddhist Vihara mesh model rendered in a pale shaded surface view
+bangladesh-paharpur,Paharpur Buddhist Vihara · integrated 3D survey,assets/images/bangladesh-paharpur/06.png,"Paharpur Buddhist Vihara point-cloud reconstruction, frontal view"
